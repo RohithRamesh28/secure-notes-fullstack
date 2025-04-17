@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker, Session
 from contextlib import contextmanager
 
 # Correct database URL for PostgreSQL
-DATABASE_URL = "postgresql://postgres:12345678@localhost:5432/notes_tracker"
+DATABASE_URL = "sqlite:///./notes.db"
 
 
 engine = create_engine(
