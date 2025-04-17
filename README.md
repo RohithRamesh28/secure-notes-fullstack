@@ -1,7 +1,11 @@
 # secure-notes-fullstack
 please install this packages after creation of env
+
 pip install email-validator
+
 pip install psycopg[binary]
+
+
 Hi,
 This is the back-end of the repo (which holds the frontend of the project)named:[todo-application](https://github.com/RohithRamesh28/todo-application) 
 After clonning and installing all the required packages and intructions done below, Please clone this repo mentioned above.
